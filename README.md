@@ -10,7 +10,7 @@
 Neste projeto prático, o objetivo é implementar o algoritmo de treinamento mediante Aprendizado Supervisionado do neurônio Perceptron de Rosenblatt aplicado em problemas de classificação.
 
 ## Tecnologias
-Esta atividade foi desenvolvida em Python por meio do Google Colab [Acesso ao Colab](https://colab.research.google.com/drive/1i_NvkIhr55nIzMHGn0pP4M340GqEGXl8#scrollTo=wLxdD7AsVj4-). Cada equipe deverá elaborar Jupyter Notebooks com o código-fonte deste algoritmo de treinamento desenvolvido na linguagem de Programação Python e fazendo uso das bibliotecas numpy, random, math e matplotlib. Em particular, a biblioteca numpy será de uso obrigatório para todas as operações de natureza matricial (multiplicação de matrizes, produto escalar, etc). Neste projeto prático, a biblioteca sci-kit learn não deve ser utilizada.
+Esta atividade foi desenvolvida em Python por meio do Google Colab [Acesso ao Colab](https://colab.research.google.com/github/danilo-uea/RNA-2021.1-AA2.1/blob/main/RNA_AA_2_1.ipynb). Cada equipe deverá elaborar Jupyter Notebooks com o código-fonte deste algoritmo de treinamento desenvolvido na linguagem de Programação Python e fazendo uso das bibliotecas numpy, random, math e matplotlib. Em particular, a biblioteca numpy será de uso obrigatório para todas as operações de natureza matricial (multiplicação de matrizes, produto escalar, etc). Neste projeto prático, a biblioteca sci-kit learn não deve ser utilizada.
 
 ## DataSet
 Os DataSets usados nesta atividade foram disponibilizados no google drive [Link do DataSet](https://drive.google.com/drive/folders/1111maX048CuvEJDx2d8X39z6tq3DXHB6?usp=sharing).
