@@ -4,7 +4,7 @@
 * Curso: Engenharia de Computação
 * Disciplina: Redes Neurais Artificiais
 * Docente: Elloá B. Guedes
-* Equipe: Danilo Frazão & Yasser Tuma
+* Equipe: Danilo Frazão, Rafael Aragão & Yasser Tuma
 
 ## Definição
 Neste projeto prático, o objetivo é implementar o algoritmo de treinamento mediante Aprendizado Supervisionado do neurônio Perceptron de Rosenblatt aplicado em problemas de classificação.
